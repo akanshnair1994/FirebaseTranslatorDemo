@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205109639771",
+    "firebase_url": "https://translatorapp-c8ffb.firebaseio.com",
+    "project_id": "translatorapp-c8ffb",
+    "storage_bucket": "translatorapp-c8ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205109639771:android:c59a9b0f417c353b105d7e",
+        "android_client_info": {
+          "package_name": "com.hexamind.translatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205109639771-kh5r91mdi5bocb1jtclvjhdff0g5pk9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hexamind.translatorapp",
+            "certificate_hash": "451b2e26f30d7fb94ff36d43285f23a5572d275d"
+          }
+        },
+        {
+          "client_id": "205109639771-51os9n312s49pupa83r8vv715t0r6rjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeyH7kqoc1tJ-8m-ftuImpHTiLILONchA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205109639771-51os9n312s49pupa83r8vv715t0r6rjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
